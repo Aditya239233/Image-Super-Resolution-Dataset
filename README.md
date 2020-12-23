@@ -17,10 +17,10 @@ The dataset is divided into 2 main folders: train and val. Inside these 2 folder
 When I started learning about image processing, there was a huge need to improve the resolution & quality of these images. So, I decided to look around to find a dataset so that I can develop a model to improve these factors in an image and there was no proper dataset available.
 
 
-The dataset can be found at: https://www.kaggle.com/adityachandrasekhar/image-super-resolution
+The dataset can be found [here](https://www.kaggle.com/adityachandrasekhar/image-super-resolution)
 
 
-A basic Tensorflow Implementation of how this dataset could be used can be found at: https://www.kaggle.com/adityachandrasekhar/basic-tensorflow-implementation
+A basic Tensorflow Implementation of how this dataset could be used can be found [here](https://www.kaggle.com/adityachandrasekhar/basic-tensorflow-implementation)
 
 ## Contributions
 
